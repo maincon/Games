@@ -1,0 +1,315 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bakcgr",
+				"background-color\tproperty"
+			],
+			[
+				"size",
+				"font-size\tproperty"
+			],
+			[
+				"list-st",
+				"list-style-type\tproperty"
+			],
+			[
+				"inline",
+				"inline-block\tdisplay"
+			],
+			[
+				"backg",
+				"background-color\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"box-",
+				"box-sizing\tproperty"
+			],
+			[
+				"box",
+				"box-sizing\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"border-c",
+				"border-collapse\tproperty"
+			],
+			[
+				"text",
+				"text-shadow\tproperty"
+			],
+			[
+				"de",
+				"details\tTag"
+			],
+			[
+				"aut",
+				"autocomplete\tAttr"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"te",
+				"textarea\tTag"
+			],
+			[
+				"le",
+				"label\tTag"
+			],
+			[
+				"opt",
+				"option\tTag"
+			],
+			[
+				"p",
+				"p"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"di",
+				"div\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/opt/lampp/htdocs/jogo.php",
+		"/home/aluno-uffs/Documentos/quiz/quiz.php",
+		"/opt/lampp/htdocs/resultados.php",
+		"/home/aluno-uffs/Documentos/php (1)/array.php",
+		"/home/aluno-uffs/Documentos/php (1)/php.php",
+		"/home/aluno-uffs/Documentos/php/php.html",
+		"/opt/lampp/htdocs/array.php",
+		"/home/aluno-uffs/Documentos/site/estilo.css",
+		"/home/aluno-uffs/Documentos/site/contatos.html",
+		"/home/aluno-uffs/Documentos/Avaliacao1/CSS.css",
+		"/home/aluno-uffs/Documentos/Avaliacao1/Avaliacao1.html",
+		"/home/aluno-uffs/Documentos/site/curriculum.html",
+		"/home/aluno-uffs/Documentos/site/cc.html",
+		"/home/aluno-uffs/Documentos/exemplos position e overflow/aula_position.html",
+		"/home/aluno-uffs/Documentos/site/index.html",
+		"/home/aluno-uffs/Documentos/site/javascript.html",
+		"/home/aluno-uffs/Documentos/site/responsivo.html",
+		"/home/aluno-uffs/Documentos/site/temas.html",
+		"/home/aluno-uffs/Área de Trabalho/prog/aula-15-04/MediaQuery.html",
+		"/home/aluno-uffs/Área de Trabalho/prog/Comparação/index.html",
+		"/home/aluno-uffs/Área de Trabalho/prog/aula-15-04/exemplos position e overflow/aula_position.html",
+		"/home/aluno-uffs/Área de Trabalho/MediaQueries.html",
+		"/home/aluno-uffs/Downloads/site/contatos.html",
+		"/home/aluno-uffs/Downloads/site/temas.html",
+		"/home/aluno-uffs/Downloads/site/index.html",
+		"/home/aluno-uffs/Downloads/site/projetos/portifolio.html",
+		"/home/aluno-uffs/Downloads/site/estilo.css",
+		"/home/aluno-uffs/Downloads/site/curriculum.html",
+		"/home/aluno-uffs/Downloads/site/cc.html",
+		"/home/aluno-uffs/Downloads/site/aluno.html",
+		"/home/aluno-uffs/Área de Trabalho/prog/site/projetos/portfolio.html",
+		"/home/aluno-uffs/Área de Trabalho/prog/index.html",
+		"/home/aluno-uffs/Área de Trabalho/prog/temas.html",
+		"/home/aluno-uffs/Área de Trabalho/prog/curriculum.html",
+		"/home/aluno-uffs/Área de Trabalho/prog/contato.html",
+		"/home/aluno-uffs/Área de Trabalho/prog/estilos.css",
+		"/home/aluno-uffs/Área de Trabalho/prog/aula-II.html",
+		"/home/aluno-uffs/Área de Trabalho/prog/site.html",
+		"/home/aluno-uffs/Área de Trabalho/prog/pg1.html",
+		"/home/aluno-uffs/Área de Trabalho/prog/aula2.html",
+		"/home/aluno-uffs/Área de Trabalho/prog2/temas.html",
+		"/home/aluno-uffs/Área de Trabalho/prog2/pg1.html",
+		"/home/aluno-uffs/Área de Trabalho/prog2/site.html",
+		"/home/aluno-uffs/Área de Trabalho/prog2/index.html",
+		"/home/aluno-uffs/Área de Trabalho/prog2/aula-II.html",
+		"/home/aluno-uffs/Área de Trabalho/prog2/curriculum.html",
+		"/home/aluno-uffs/Área de Trabalho/prog2/contato.html",
+		"/home/aluno-uffs/Área de Trabalho/prog2/aula2.html"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Steering.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 50.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
